@@ -1,11 +1,9 @@
 Open Source
 ===========
 
---------------
+
 author: Dovydas Stankevicius
-created: 16/10/13
-modified: 16/10/13
--------------
+----------------------------
 
 
 ## 1. Linux uppsetning
@@ -30,13 +28,9 @@ This part also went pretty well. At the beginning, it was relatively hard to wor
 ## 4. Uppsettur hugbúnaður
 --------------------------
 
-Vim is a charityware. Its license is GPL-compatible, so it is an open software. Therefore, whenever the code is changed, all changes must be made public. Furthermore, it is possible to donate money and all of the donated money would be send to Uganda to help children there, through ICCF. Link where you can find the vim source [code] [1]. So by downloading the source code, you could change it and hence, help in further development of the sotware. 
+Vim is a charityware. Its license is GPL-compatible, so it is an open software. Therefore, whenever the code is changed, all changes must be made public. Furthermore, it is possible to donate money and all of the donated money would be send to Uganda to help children there, through ICCF. Link where you can find the vim source code http://www.vim.org/sources.php. So by downloading the source code, you could change it and hence, help in further development of the sotware. 
 
-[1]: http://www.vim.org/sources.php "code" 
-
-Git is free software distributed under the terms of the GNU General Public License version 2 (hence it is free and open source). The source code of git could be found [here] [2]. Since it is an open source, anyone can join in and help impriving it.
-
-[2]: http://www.vim.org/sources.php "here"
+Git is free software distributed under the terms of the GNU General Public License version 2 (hence it is free and open source). The source code of git could be found here: http://www.vim.org/sources.php. Since it is an open source, anyone can join in and help impriving it.
 
 ## 5. Unnið með Git (2. hluti)
 -----------------------------
