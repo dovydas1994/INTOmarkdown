@@ -13,7 +13,7 @@ I booted the Ubunut off the USB key. First, i downloaded Ubuntu 12.04 from the o
 
 Here is a screenshot of my machine booting up into linux: 
 
-![Alt text] (/home/ubuntu/Desktop/screenshot.jpg "Ubuntu screenshot" ) 
+![The screenshot could be seen here] (https://github.com/dovydas1994/OpenSourceHomework/blob/master/screenshot.jpg) 
 
 ## 2. Uppsetning á vim && git
 -----------------------------
